@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Dhramantuladhar@gmail.com**
 
-- ⚡ Fun fact **I am a funny guy who looks dumb and childish but completely different person when serious.**
+- ⚡ Fun fact **HUMANS >>>>> AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
