@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shramantuladhar" alt="shramantuladhar" /></a> </p>
 
-- 🔭 I’m currently working on **AI hard math Olympiad solver**
+- 🔭 I’m currently working on **Stock market price prediction and portfolio optimization model**
 
 - 🌱 I’m currently learning **Transformer models and Reinforcement learning**
 
-- 🤝 I’m looking for help with **AI hard math Olympiad solver**
+- 🤝 I’m looking for help with **Stock market price prediction and portfolio optimization model***
 
 - 💬 Ask me about **Python, Machine learning and Data mining**
 
