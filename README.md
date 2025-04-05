@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraman Ratna Tuladhar</h1>
-<h3 align="center">A passionate data science enthusiast from Nepal and relatively new to github community</h3>
+<h3 align="center">A passionate data science enthusiast who loves to solve complex real world problems through data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shramantuladhar&label=Profile%20views&color=0e75b6&style=flat" alt="shramantuladhar" /> </p>
 
