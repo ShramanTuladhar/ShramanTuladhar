@@ -1,95 +1,78 @@
-````html
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SHRAMAN%20TULADHAR&fontAlign=50&fontAlignY=38&desc=Quantitative%20Research%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Decision%20Systems&descAlign=50&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,45:0EA5E9,100:22C55E&text=Shraman%20Tuladhar&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Quant%20research%20%7C%20Machine%20learning%20%7C%20Decision%20systems&descSize=18&descAlignY=57&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&center=true&vCenter=true&width=850&lines=%3E+researching+decisions+under+uncertainty...;%3E+statistics+%2B+ML+%2B+optimization;%3E+building+quantitative+systems;%3E+prediction+is+only+the+beginning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&center=true&vCenter=true&width=880&lines=I+build+models+that+turn+noisy+data+into+clearer+decisions.;Markets%2C+risk%2C+regimes%2C+and+AI+systems.;Prediction+is+useful.+Good+decisions+are+the+real+goal." />
 
-<br><br>
+<br>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/ShramanTuladhar">
+  <img src="https://img.shields.io/badge/GitHub-ShramanTuladhar-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ShramanTuladhar&style=for-the-badge&label=PROFILE+VIEWS&color=0EA5E9" />
 
 </div>
 
 ---
 
 ```text
-┌──────────────────────────── RESEARCH TERMINAL ────────────────────────────┐
-│                                                                          │
-│  prediction ──► uncertainty ──► optimization ──► decision                │
-│                                                                          │
-│  CURRENT SIGNALS                                                        │
-│  ├─ Regime-Conditioned Portfolio Optimization                           │
-│  ├─ Downside-Risk-Aware Deep Reinforcement Learning                     │
-│  ├─ Quantitative Trading & Market Regime Research                       │
-│  └─ AI Systems + Product Building                                       │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-````
++-------------------------- CURRENT FREQUENCY --------------------------+
+|                                                                       |
+|  I am exploring how intelligent systems behave when the world is       |
+|  uncertain: markets move, signals decay, risk hides in the tails,      |
+|  and decisions still need to be made.                                  |
+|                                                                       |
+|  Right now:                                                            |
+|  > regime-aware portfolio optimization                                 |
+|  > downside-risk reinforcement learning                                |
+|  > quantitative trading experiments                                    |
+|  > AI products that make evaluation sharper and faster                 |
+|                                                                       |
++-----------------------------------------------------------------------+
+```
 
 <div align="center">
 
-## ⚡ Research Lab
+## What I Am Building
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🧠 Portfolio Intelligence
+### Market Regime Intelligence
 
-**Decision-Focused ML**
+Finding structure inside messy financial time series and using it to make portfolios more adaptive.
 
-Regime Detection • Uncertainty
-Bilevel Optimization • Trading Frictions
-
-`HMM` `PyTorch` `CVXPY`
+`HMM` `Time Series` `Portfolio Optimization` `Risk`
 
 </td>
+<td width="50%" align="center">
 
-<td align="center" width="50%">
+### Risk-Aware RL
 
-### 📉 RL Execution
+Training agents that care about more than reward: drawdowns, execution, constraints, and survival.
 
-**Downside-Risk DDQN**
-
-Liquidity • Inventory Constraints
-Tail Risk • Optimal Execution
-
-`DDQN` `RL` `Risk`
+`DDQN` `PyTorch` `Execution` `Tail Risk`
 
 </td>
 </tr>
-
 <tr>
-<td align="center">
+<td width="50%" align="center">
 
-### 📊 Quant Research
+### Quant Research
 
-Alpha Research • Time Series
-Market Regimes • Portfolio Risk
+Testing signals, stress-testing assumptions, and building backtests that try to be honest.
 
-`Statistics` `Signals` `Backtesting`
+`Alpha Research` `Backtesting` `Statistics` `Pandas`
 
 </td>
+<td width="50%" align="center">
 
-<td align="center">
+### AI Systems
 
-### 🚀 Building
+Building practical AI tools that reduce noise, surface evidence, and improve decisions.
 
-**Crayon AI**
-
-Evidence-driven AI systems for
-intelligent candidate evaluation
-
-`LLMs` `AI Systems` `Product`
+`LLMs` `Product` `Evaluation` `Automation`
 
 </td>
 </tr>
@@ -97,46 +80,44 @@ intelligent candidate evaluation
 
 ---
 
-## 🧬 Tech DNA
+## Toolkit
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,postgres,docker,git,github,vscode&perline=8" />
 
-<br>
+<br><br>
 
-`NumPy` • `Pandas` • `SciPy` • `XGBoost` • `CVXPY` • `HMM` • `SQL`
-
----
-
-## 📡 GitHub Signal
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=6"/>
-
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true"/>
+`NumPy` | `Pandas` | `SciPy` | `XGBoost` | `CVXPY` | `SQL` | `Jupyter` | `Machine Learning`
 
 ---
 
-## 🏆 Selected Signals
+## GitHub Signal
 
-<img src="https://img.shields.io/badge/🏆_Best_Capstone_Project-Award-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMC_Prosperity_4-#1_Country_Round-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SIG-Algothon_2026-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research-First_Author-informational?style=for-the-badge"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShramanTuladhar&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShramanTuladhar&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+<br><br>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShramanTuladhar&hide_border=true&area=true&theme=react-dark&custom_title=Contribution%20Signal" />
 
 ---
 
-### `THE QUESTION I CARE ABOUT`
+## Selected Signals
 
-# **How do we make better decisions when the world is uncertain?**
+<img src="https://img.shields.io/badge/Best%20Capstone%20Project-Award-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IMC%20Prosperity%204-%231%20Country%20Round-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIG%20Algothon-2026-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Research-First%20Author-8B5CF6?style=for-the-badge" />
 
-*Markets are noisy. Models are imperfect. Decisions still have to be made.*
+---
+
+### The Question I Keep Coming Back To
+
+# How do we make better decisions when the signal is incomplete?
+
+Models do not need to be perfect. They need to be useful, tested, and honest about uncertainty.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:22C55E,55:0EA5E9,100:111827" />
 
 </div>
-```
