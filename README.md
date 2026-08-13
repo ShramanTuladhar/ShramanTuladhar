@@ -1,52 +1,115 @@
-<h1 align="center">Hi 👋, I'm Shraman Tuladhar</h1>
+````markdown
+<div align="center">
 
-<h3 align="center">
-Quant Research • Machine Learning • AI
-</h3>
+# SHRAMAN TULADHAR
 
-<p align="center">
-Master's by Research student exploring how 
-<b>statistics, machine learning and optimization</b> 
-can make better decisions under uncertainty.
-</p>
+### Quantitative Research · Decision Systems · Machine Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=Researching+decision-making+under+uncertainty;Statistics+%2B+ML+%2B+Optimization;Quantitative+Finance+%7C+Reinforcement+Learning;Turning+research+ideas+into+working+systems" />
 
----
+<br>
 
-### 🚀 Currently working on
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-- 🧠 **Decision-Focused Portfolio Optimization**
-- 📈 **Downside-Risk-Aware DDQN Trade Execution**
-- 🚀 **Crayon AI**
-- ⚡ **Quant Trading & Market Regime Research**
+</div>
 
 ---
 
-### 🔬 Interests
+### `> research_focus`
 
-`Quantitative Finance` • `Machine Learning` • `Statistics` • `Optimization` • `Reinforcement Learning`
+```text
+prediction  →  uncertainty  →  optimization  →  decision
+````
+
+I work on problems where **prediction accuracy is not the final objective**.
+
+My current research explores how models can adapt to changing market regimes,
+reason about uncertainty, and directly optimize better financial decisions.
 
 ---
 
-### 🏆 Highlights
+### `> current_work`
 
-- 🥇 **IMC Prosperity 4 — #1 Country Rank in a Manual Trading Round**
-- 🏆 **Best Capstone Project Award**
-- 📊 **SIG Algothon 2026**
+<table>
+<tr>
+<td width="50%">
+
+#### 🧠 Decision-Focused Portfolio ML
+
+Regime-conditioned portfolio allocation with
+**bilevel optimization + model uncertainty**
+
+</td>
+<td width="50%">
+
+#### 📉 Downside-Risk DDQN
+
+Reinforcement learning for trade execution under
+**liquidity, inventory & tail-risk constraints**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### ⚡ Quant Research
+
+Market regimes · alpha research · risk ·
+statistical testing · portfolio modelling
+
+</td>
+<td>
+
+#### 🚀 Crayon AI
+
+Building AI systems for **evidence-driven**
+candidate evaluation and hiring intelligence
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>Building models that don't just predict — they make better decisions.</b>
-</p>
+### `> toolkit`
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,docker,postgres" />
+
 </p>
+
+<div align="center">
+
+`Statistics` · `Time Series` · `Optimization` · `Reinforcement Learning`
+`Portfolio Research` · `Risk Modelling` · `Machine Learning`
+
+</div>
+
+---
+
+### `> selected_signals`
+
+```text
+🏆  Best Capstone Project Award
+📊  SIG Algothon 2026
+🥇  IMC Prosperity 4 — #1 country rank in a manual trading round
+📄  First-author research in reinforcement-learning trade execution
+```
+
+---
+
+<div align="center">
+
+### Philosophy
+
+> **A model is useful only when it improves the decision that follows.**
+
+</div>
+```
