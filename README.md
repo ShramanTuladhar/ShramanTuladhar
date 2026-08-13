@@ -1,52 +1,52 @@
-<h1 align="center">Shraman Ratna Tuladhar</h1>
+<h1 align="center">Hi 👋, I'm Shraman Tuladhar</h1>
+
+<h3 align="center">
+Quant Research • Machine Learning • AI
+</h3>
+
 <p align="center">
-Quantitative Research | Systematic Trading | Statistical Learning
+Master's by Research student exploring how 
+<b>statistics, machine learning and optimization</b> 
+can make better decisions under uncertainty.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## About
+### 🚀 Currently working on
 
-I am a quantitative research student focused on probabilistic decision-making, systematic trading strategies, and signal extraction in noisy financial markets.
-
-My work centers around designing and evaluating multi-strategy alpha models, portfolio construction techniques, and applying statistical and machine learning methods to time-series and market microstructure data.
-
----
-
-## Research & Projects
-
-🔹 **Multi-Strategy Alpha Factory**  
-Mean Reversion | Trend Following | Cross-Sectional Momentum  
-- Strategy design and walk-forward validation  
-- Portfolio diversification and volatility targeting  
-- Risk contribution and drawdown analysis  
-
-🔹 **DRW Crypto Signal Extraction (Kaggle)**  
-- Order-book and trade data modelling  
-- Microstructure-inspired feature engineering  
-- Dimensionality reduction (PCA)  
-- Out-of-sample correlation ≈ 0.08  
+- 🧠 **Decision-Focused Portfolio Optimization**
+- 📈 **Downside-Risk-Aware DDQN Trade Execution**
+- 🚀 **Crayon AI**
+- ⚡ **Quant Trading & Market Regime Research**
 
 ---
 
-## Technical Stack
+### 🔬 Interests
 
-**Languages:** Python, R, SQL  
-**Libraries:** NumPy, Pandas, scikit-learn, XGBoost, LightGBM, PyTorch  
-**Methods:** Time-series modelling, signal extraction, risk evaluation, optimization  
+`Quantitative Finance` • `Machine Learning` • `Statistics` • `Optimization` • `Reinforcement Learning`
 
 ---
 
-## Current Focus
+### 🏆 Highlights
 
-- Robust out-of-sample evaluation  
-- Regime-aware modelling  
-- Reinforcement learning for capital allocation  
-- Market microstructure feature research  
+- 🥇 **IMC Prosperity 4 — #1 Country Rank in a Manual Trading Round**
+- 🏆 **Best Capstone Project Award**
+- 📊 **SIG Algothon 2026**
 
 ---
 
-## Contact
+<p align="center">
+  <b>Building models that don't just predict — they make better decisions.</b>
+</p>
 
-LinkedIn: https://www.linkedin.com/in/shraman-tuladhar-525b29290/  
-Email: shramantldr@gmail.com
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
